@@ -34,13 +34,9 @@ Goal: Monitor operational performance and fulfillment efficiency.
 How does AOV differ by country?
 Goal: Compare customer value across regions to tailor pricing or promotions.
 
-
-
-
-
-
-
-
-
-⏱️ How frequently do customers reorder?
+How frequently do customers reorder?
 Goal: Gain insight into customer retention and lifecycle patterns.
+
+
+
+
