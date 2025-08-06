@@ -37,6 +37,28 @@ Goal: Compare customer value across regions to tailor pricing or promotions.
 How frequently do customers reorder?
 Goal: Gain insight into customer retention and lifecycle patterns.
 
+# Insights & Results 
+Monthly Revenue Trend: Revenue peaked in September 2025 with 549.98 generated. Making it the highest performing month in the dataset.
+Q4 showed a fluctuation in November revenue, which took a dip but maintained a moderate average revenue.
+
+Top-Selling Products:
+
+Mechanical Keyboard – 3 units
+HD Webcam – 3 units
+Bluetooth Headphones – 2 units
+
+Suggest strong demand for ergonomic and productivity-enhancing accessories, which may inform future inventory decisions and marketing focus.
+
+The revenue breakdown by country reveals that:
+
+USA leads with the highest total revenue of $861.91, making it the most valuable market.
+
+Canada follows with $462.46, also showing strong customer activity.
+
+Marketing strategies should prioritize the U.S. and Canadian markets, while Australia and the U.K. may benefit from specific target campaigns.
+
+Average order value across all transactions is $111.30, average customer spends over $100 per purchase. This is strong and will present opportunities and strategies for bundling strategies, if desired. 
+
 
 
 
