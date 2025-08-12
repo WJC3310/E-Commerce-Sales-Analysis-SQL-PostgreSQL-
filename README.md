@@ -6,11 +6,14 @@ Using structured queries, I extracted valuable metrics, including monthly revenu
 # Tools Used
 PostgreSQL – Used as the relational database to create, populate, and query the e-commerce dataset.
 
-pgAdmin – GUI client for PostgreSQL used to manage tables, run queries, and inspect results.
+pgAdmin 4 – GUI client for PostgreSQL used to manage tables, run queries, and inspect results.
 
 SQL – Used to analyze the data: aggregations, window functions, filtering, and sorting.
 
 Notepad – Used to save and organize .sql scripts in a clean and reusable format.
+
+Tableau Public - Data visualization and dashboard building
+
 
 #  Business Questions & Goals
 This project aims to uncover insights from a mock e-commerce dataset to support decision-making around sales performance, customer behavior, and market strategy. 
