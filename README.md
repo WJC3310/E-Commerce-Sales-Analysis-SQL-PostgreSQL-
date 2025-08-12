@@ -63,6 +63,12 @@ Marketing strategies should prioritize the U.S. and Canadian markets, while Aust
 Average order value across all transactions is $111.30, average customer spends over $100 per purchase. This is strong and will present opportunities and strategies for bundling strategies, if desired. 
 
 
+## Outcomes & Skills Demonstrated
 
+- Translating business questions into actionable SQL queries
+- Using window functions and aggregation for advanced metrics
+- Visualizing multi-dimensional data for non-technical audiences
+- Dashboard design and storytelling in Tableau
+- End-to-end project delivery from database to insight
 
 
