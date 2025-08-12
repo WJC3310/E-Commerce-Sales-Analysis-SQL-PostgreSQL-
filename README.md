@@ -51,7 +51,7 @@ Suggest strong demand for ergonomic and productivity-enhancing accessories, whic
 
 The revenue breakdown by country reveals that:
 
-USA leads with the highest total revenue of $861.91, making it the most valuable market.
+The USA leads with the highest total revenue of $861.91, making it the most valuable market.
 
 Canada follows with $462.46, also showing strong customer activity.
 
@@ -59,7 +59,6 @@ Marketing strategies should prioritize the U.S. and Canadian markets, while Aust
 
 Average order value across all transactions is $111.30, average customer spends over $100 per purchase. This is strong and will present opportunities and strategies for bundling strategies, if desired. 
 
-View Tableau Dashboard https://public.tableau.com/views/E-commercePerformance/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
