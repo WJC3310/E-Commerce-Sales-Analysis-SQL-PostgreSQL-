@@ -56,6 +56,8 @@ USA leads with the highest total revenue of $861.91, making it the most valuable
 Canada follows with $462.46, also showing strong customer activity.
 
 Marketing strategies should prioritize the U.S. and Canadian markets, while Australia and the U.K. may benefit from specific target campaigns.
+View Tableau Dashboard https://public.tableau.com/views/E-commercePerformance/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 Average order value across all transactions is $111.30, average customer spends over $100 per purchase. This is strong and will present opportunities and strategies for bundling strategies, if desired. 
 
